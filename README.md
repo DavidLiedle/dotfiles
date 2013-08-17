@@ -1,6 +1,6 @@
-# Roderik's dotfiles
+# macdaddy's dotfiles
 
-This is a fork of Mathias’s dotfiles customised for my use.
+This is a fork of Roderik's fork of Mathias’s dotfiles customised for my use.
 
 ## Installation
 
@@ -42,4 +42,4 @@ When setting up a new Mac, you may want to set some sensible OS X defaults:
 
 ## More help
 
-Check out [this blog post about my development environment](http://vanderveer.be/blog/2012/04/21/setting-up-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion-dp3-edition/) where i detail how i use this repo.
+Check out [this blog post about Roderik's development environment](http://vanderveer.be/blog/2012/04/21/setting-up-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion-dp3-edition/) where i detail how i use this repo.
